@@ -1,4 +1,4 @@
-ecowe/profile.md # ECOWE
+# ECOWE
 Green think, Better life!
-## [Profile](ecowe/profile.md)
-### [Expectation](ecowe/expectation.md )
+## [Profile](https://github.com/wallivy/ecowe/blob/master/profile.md)
+### [Expectation](https://github.com/wallivy/ecowe/blob/master/expectation.md )
