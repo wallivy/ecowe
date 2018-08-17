@@ -7,14 +7,14 @@ Our vision is to revolutionize the engineering industry with green construction 
 ## MISSION
 At ECOWE GROUP LIMITED our mission is to represent our clients in a way that is appropriate for a highly skilled, adaptable, and professional engineering consulting firm. It is also our intent to maintain a high level of professionalism with emphasis on integrity, honesty, and fairness. This ideology will apply to the cultivation of our relationships with our clients, suppliers, sub-contractors, fellow construction professionals, and anyone else involved. Our management style will always give consideration to cost containment, schedule, and value; while always being committed to continuous improvement in our services and processes.
 ## CORE VALUES
--Safety
+- Safety
 Safety will always come first as we strive for accident-free projects.
--Quality
+- Quality
 Our goal is simply to be the best and to continually improve. This is accomplished through focused teamwork, pride in our work, quality controlled systems – and by hiring and educating the best people we can possibly find.
 -Accountability
 We are accountable to our Customers, Company, Teammates, Subcontractors and Suppliers.
--Integrity
+- Integrity
  (Honesty, Trust and Respect)
 We are committed to the highest ethical standards. It’s what our Customers expect from us and what our Associates expect from their leadership and each other. This is earned through our performance and by our example.
--customer Satisfaction
+- customer Satisfaction
 The end result of our efforts must be a satisfied Customer. Our reputation is the key to ECOWE Group Limited longevity in the engineering industry and will remain the key to future successes.
