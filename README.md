@@ -1,2 +1,2 @@
-# ecowe
+# ECOWE
 Green think, Better life!
