@@ -1,5 +1,4 @@
-# ECOWE
+ecowe/profile.md # ECOWE
 Green think, Better life!
-## Profile
-[profile]()
-### Expectation
+## [Profile](ecowe/profile.md)
+### [Expectation](ecowe/expectation.md )
