@@ -4,7 +4,7 @@
 - [BSI](https://shop.bsigroup.com/)
 - [CEN](https://www.cen.eu)
 - [Standardsuk](https://www.standardsuk.com/)
-- [Standardcn](http://www.standardcn.com/）
+- [Standardcn](http://www.standardcn.com/)
 
 - Related
   - [BS-Concrete](http://legacy.ybsitecenter.com/multi-images/uk/legacy/var/ag/13819/105399-Concrete_Complementary_British_Standard.pdf)
