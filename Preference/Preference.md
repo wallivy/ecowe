@@ -8,7 +8,9 @@ With some thoughtful planning you can ensure your project’s success before it 
 We provide expert advice and assistance to the client through the various stages of the procurement process including packaging of contract documents, guiding the advertising process, pre-bid and pre-proposal conferencing, developing bid evaluation criteria, and evaluation of submitted bids.
 We also help fund projects for our clients with contracts but are not able to raise the funds for the project.  At ECOWE we help our clients achieve more.
 
-we can achieve more under the guideline of project management standard together!
+In the above experienced fields of building, road and water projects, we focus on the technical, management and resources integratetion and develop the solution in specific areas by the means to train, assist or be assigned for the project performance ungrading.
+
+For more, click the link for [project management service]()
 ## 2. Quantity Survey
 
 
