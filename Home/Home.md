@@ -1,14 +1,15 @@
 # ECOWE
 Green Land, Blue Sky!
-## [Home](https://github.com/wallivy/ecowe/blob/master/About/About.md)
-
-
-
-##
-[Public](https://github.com/wallivy/ecowe/blob/master/About/Profile.md)
+## [Home](https://github.com/wallivy/ecowe/blob/master/Home/Home.md)
 
 
 
 
 
-## [Activity](https://github.com/wallivy/ecowe/blob/master/Activity/Activity.md)
+## [Public](https://github.com/wallivy/ecowe/blob/master/Public/Public.md)
+
+
+
+
+
+## [Activity](https://github.com/wallivy/ecowe/blob/master/Public/Public.md)
