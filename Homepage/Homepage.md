@@ -1,1 +1,1 @@
-The home page for ECOWE, Ecowegroup and Personal
+ECOWE is a combination of public, company and community to define a sereies of circles who has the extroadinary ideas on technology, arts and environment which is driven by personal strength and company lead as well as community collibration.
